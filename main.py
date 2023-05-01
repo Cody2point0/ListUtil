@@ -1,4 +1,3 @@
-import math
 list1 = [1, 2, 3, 4]
 list2 = ['a', 'b', 'c', 'd']
 list3 = ['alpha', 'beta', 'gamma', 'delta']
