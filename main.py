@@ -9,7 +9,6 @@ def avg(list):
   '''
   return avg(list)
 
-
 def combine(lists, other, separator='', removeEmptyValues=True):
   '''
   Takes imput from 2 lists and combines the 2 into 1 returned list. Lists must be equal in lenght or function will return type None
